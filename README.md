@@ -1,2 +1,1 @@
-# Moyo
-A CV writer/trainer
+A trained educationist
